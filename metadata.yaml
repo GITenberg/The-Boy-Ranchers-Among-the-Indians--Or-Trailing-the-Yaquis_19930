@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '2092'
     url: http://www.gutenberg.org/2009/agents/2092
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19930#The-Boy-Ranchers-Among-the-Indians--Or-Trailing-the-Yaquis
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2006-11-27'
 gutenberg_type: Text
